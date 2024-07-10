@@ -1,6 +1,36 @@
-nginx
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+# ubuntu
+ubuntu:16.04
+ubuntu:18.04
+ubuntu:20.04
+ubuntu:22.04
+ubuntu:24.04
+# debian
+debian:10
+debian:11
+debian:12
+# centos
+centos:centos7.9.2009
+# docker in docker
+docker:26.1.4-dind-rootless
+# mysql
+mysql:5.5.54
+# postgres
+postgres:12.17
+# mongo
+mongo:4.2.22
+# redis
+redis:7.2.5
+# nginx
+nginx:1.26.1
+# maven
+maven:3.9.7
+# tomcat
+tomcat:9.0.89-jdk8
+# openjdk
+openjdk:8u201-alpine
+# python
+python:3.12.4
+# golang
+golang:1.22.4
+# node
+node:18.20.3
