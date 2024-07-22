@@ -42,3 +42,5 @@ redis:6-alpine
 semitechnologies/weaviate:1.19.0
 langgenius/dify-sandbox:0.1.0
 langgenius/dify-api:0.6.13
+#zlmediakit
+zlmediakit/zlmediakit:master
