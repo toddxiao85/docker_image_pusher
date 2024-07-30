@@ -44,3 +44,5 @@ langgenius/dify-sandbox:0.1.0
 langgenius/dify-api:0.6.13
 #zlmediakit
 zlmediakit/zlmediakit:master
+#gitlab
+gitlab/gitlab-ce:15.3.2-ce.0
