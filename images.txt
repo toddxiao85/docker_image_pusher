@@ -1,53 +1,54 @@
 # ubuntu
-ubuntu:16.04
-ubuntu:18.04
-ubuntu:20.04
-ubuntu:22.04
-ubuntu:24.04
+# ubuntu:16.04
+# ubuntu:18.04
+# ubuntu:20.04
+# ubuntu:22.04
+# ubuntu:24.04
 # debian
-debian:10
-debian:11
-debian:12
+# debian:10
+# debian:11
+# debian:12
 # centos
-centos:centos7.9.2009
+# centos:centos7.9.2009
 # docker in docker
-docker:26.1.4-dind-rootless
+# docker:26.1.4-dind-rootless
 # mysql
-mysql:5.5.54
+# mysql:5.5.54
 # postgres
-postgres:12.17
+# postgres:12.17
 # mongo
-mongo:4.2.22
+# mongo:4.2.22
 # redis
-redis:7.2.5
+# redis:7.2.5
 # nginx
-nginx:1.26.1
+# nginx:1.26.1
 # maven
-maven:3.9.7
+# maven:3.9.7
 # tomcat
-tomcat:9.0.89-jdk8
+# tomcat:9.0.89-jdk8
 # openjdk
-openjdk:8u201-alpine
+# openjdk:8u201-alpine
 # python
-python:3.12.4
+# python:3.12.4
 # golang
-golang:1.22.4
+# golang:1.22.4
 # node
-node:18.20.3
+# node:18.20.3
 #dify
-langgenius/dify-api:0.6.6
-langgenius/dify-web:0.6.13
-postgres:15-alpine
-redis:6-alpine
-semitechnologies/weaviate:1.19.0
-langgenius/dify-sandbox:0.1.0
-langgenius/dify-api:0.6.13
+# langgenius/dify-api:0.6.6
+# langgenius/dify-web:0.6.13
+# postgres:15-alpine
+# redis:6-alpine
+# semitechnologies/weaviate:1.19.0
+# langgenius/dify-sandbox:0.1.0
+# langgenius/dify-api:0.6.13
 #zlmediakit
-zlmediakit/zlmediakit:master
+# zlmediakit/zlmediakit:master
 #gitlab
-gitlab/gitlab-ce:15.3.2-ce.0
+# gitlab/gitlab-ce:15.3.2-ce.0
 #xinference
-xprobe/xinference:v0.13.3
-xprobe/xinference:v0.13.2
+# xprobe/xinference:v0.13.3
+# xprobe/xinference:v0.13.2
 #ollama
-ollama/ollama:0.3.3
+# ollama/ollama:0.3.3
+elasticsearch:7.10.2
