@@ -51,4 +51,4 @@
 # xprobe/xinference:v0.13.2
 #ollama
 # ollama/ollama:0.3.3
-elasticsearch:7.10.2
+docker.elastic.co/elasticsearch/elasticsearch:8.12.2
