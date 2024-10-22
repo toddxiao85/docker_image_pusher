@@ -51,5 +51,6 @@
 # xprobe/xinference:v0.13.2
 #ollama
 # ollama/ollama:0.3.3
-docker.elastic.co/elasticsearch/elasticsearch:7.12.1
+#docker.elastic.co/elasticsearch/elasticsearch:7.12.1
+--platform=linux/arm64 ubuntu:22.04
 
