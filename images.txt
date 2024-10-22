@@ -54,4 +54,5 @@
 #docker.elastic.co/elasticsearch/elasticsearch:7.12.1
 #--platform=linux/arm64 ubuntu:22.04
 #--platform=linux/arm64 zlmediakit/zlmediakit:master
---platform=linux/arm64 openjdk:8u342-jdk
+#--platform=linux/arm64 openjdk:8u342-jdk
+--platform=linux/arm64 node:16.15.1-alpine
