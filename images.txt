@@ -66,9 +66,10 @@
 #ghcr.io/canner/wren-ui:0.13.4
 #moby/buildkit:buildx-stable-1
 #--platform=linux/arm64 debian:stable
---platform=linux/arm64 node:18.20-alpine
+#--platform=linux/arm64 node:18.20-alpine
 #shmopen/code-push-server:latest
 #mysql:5.7.23
-nvcr.io/nvidia/deepstream:7.1-samples-multiarch
-nvcr.io/nvidia/deepstream:7.1-triton-multiarch
-nvcr.io/nvidia/deepstream:7.1-gc-triton-devel
+#nvcr.io/nvidia/deepstream:7.1-samples-multiarch
+#nvcr.io/nvidia/deepstream:7.1-triton-multiarch
+#nvcr.io/nvidia/deepstream:7.1-gc-triton-devel
+openjdk:8u342
