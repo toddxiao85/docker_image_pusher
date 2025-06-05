@@ -74,4 +74,4 @@
 #nvcr.io/nvidia/deepstream:7.1-gc-triton-devel
 #openjdk:8u342
 #platform linux/amd64,linux/arm64 nginx:1.27.4-alpine-slim
-pgvector/pgvector:0.8.0
+pgvector/pgvector:0.8.0-pg17
